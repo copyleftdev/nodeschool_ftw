@@ -1,9 +1,6 @@
-var index = 2;
-var sum = 0;
+var result = 0;
 
-while(process.argv[index]) {
-  sum = sum+ +process.argv[index];
-  ++index;
-}
+for (var i = 2; i < process.argv.length; i++)
+    result += Number(process.argv[i]);
 
-console.log(sum);
+console.log(result);
