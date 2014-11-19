@@ -1,0 +1,4 @@
+same file text.txt
+here are some new line content
+another new line
+yet another new line
