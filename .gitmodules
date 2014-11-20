@@ -1,0 +1,4 @@
+[submodule "hello_world"]
+	path = hello_world
+	url = /Users/dj/Project/nodeschool.io/hello_world
+	branch = git-it
